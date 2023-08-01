@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(rgb(222, 218, 104) 10%, rgb(104, 222, 159) 90%);
+}
+#score{
+    font-size: xx-large;
+    margin-left: 10px;
+    float: left;
+}
+#timer{
+    font-size: xx-large;
+    margin-right: 10px;
+    float: right;
+}
+#todraw{
+    color: crimson;
+    font-size: x-large;
+}
